@@ -1,4 +1,5 @@
 
+
 import './App.css';
 import React from 'react'
 
@@ -11,7 +12,7 @@ function App() {
      <Navbar title = "Textutils" aboutText = "About us" />
      <div className="container my-3">
         <TextForm heading ="Enter the Text to Analyze Below"/>
-        {/* <About/> */}
+        <About/>
      </div>
      
     </>

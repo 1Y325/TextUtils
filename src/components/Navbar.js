@@ -31,4 +31,7 @@ Navbar.propTypes = {
                     title: PropTypes.string,
                     aboutText: PropTypes.string 
   }
-  
+//   Navbar.propTypes = {
+//     title: PropTypes.string,
+//     aboutText: PropTypes.string 
+// }
